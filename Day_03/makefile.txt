@@ -1,0 +1,1 @@
+Desgin and Verify Rising Edge and Falling Edge Detector . 
