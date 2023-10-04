@@ -1,0 +1,10 @@
+Design and Verify 8-bit ALU.
+ALU should proform Following Operations.
+1.ADD
+2.SUB
+3.SLL(left shift of A by b[2:0])
+4.LSR(Right shift of A by b[2:0])
+5.AND
+6.OR
+7.XOR
+8.EQL
