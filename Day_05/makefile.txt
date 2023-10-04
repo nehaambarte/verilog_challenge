@@ -1,0 +1,3 @@
+Design and Verify 8 bit odd counter .
+-counter should reset to a value of 8'h1
+-counter should increment by 2 on every cycle
