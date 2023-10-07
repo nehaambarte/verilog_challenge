@@ -1,0 +1,1 @@
+Day 08 : Design and verify a parameterized binary to one-hot converter.
